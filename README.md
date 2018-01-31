@@ -1,3 +1,3 @@
 # hello-world
-Getting started on GitHub
+Getting started  GitHub
 This is my first branch
